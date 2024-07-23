@@ -1,7 +1,22 @@
-# Hugo Blox Builder: All Access
+# All Access Blox
 
-Elevate your web projects with [All Access](https://hugoblox.com/sponsor/), our premium Tailwind blox collection!
+## Usage
 
-Get access to a diverse range of professionally designed, responsive components — from sleek pricing sections to interactive forms. Save time with our ready-to-use blox, fully customizable to fit your brand, and focus on creating unique features that set your website apart. Optimize your development process and enhance your designs effortlessly with our Tailwind blox!
+Install the All Access Blox in your Hugo site's `config/_defaults/modules.yaml`:
 
-Upload All Access blox to this folder and they will be automatically installed to your site, [ready for use in your pages](https://docs.hugoblox.com/getting-started/page-builder/).
+```yaml
+imports:
+  - path: github.com/HugoBlox/all-access/blox-all-access
+```
+
+Then, create the `_vendors/github.com/HugoBlox/all-access/blox-all-access/` folder structure within your site.
+
+Copy the contents of the `blox-all-access` folder to the above path.
+
+Use the exclusive blox in your landing pages.
+
+## License
+
+The contents of this folder are licensed to [All Access](https://hugoblox.com/sponsor/) sponsors only, under the [Sponsor License](https://github.com/HugoBlox/all-access/blob/main/LICENSE.md).
+
+Please **do not share (re-distribute) the contents of this folder** as it is exclusive to eligible sponsors only.
