@@ -17,8 +17,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'A blog about Data Analytics, Statistics, Artificial Intelligence, Economics and more.'
+    twitter: ''
   analytics:
     google_analytics: ''
     google_tag_manager: ''
@@ -45,7 +45,7 @@ header:
     button:
       enable: true
       text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      url: /docs/
     show_search: true
     show_theme_chooser: true
 
@@ -71,13 +71,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://github.com/thanoschalkiotis/thanoschalkiotis.github.io/'
     content_dir: 'starters/documentation/content'
     branch: 'main'
   feedback:
     responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/thanoschalkiotis/thanoschalkiotis.github.io/issues/new).'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/thanoschalkiotis/thanoschalkiotis.github.io/issues/new).'
   comment:
     provider: ''
     giscus:
