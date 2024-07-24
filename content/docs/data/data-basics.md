@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Some Data Basics
 weight: 2
 ---
 

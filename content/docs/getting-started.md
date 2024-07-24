@@ -56,7 +56,7 @@ Let's dive in:
 
 {{< cards >}}
   {{< card url="../data/data-introduction" title="Data Introduction" icon="document-duplicate" >}}
-  {{< card url="../AI/intro" title="Introduction" icon="adjustments-vertical" >}}
-  {{< card url="../Statistics/intro" title="Introduction" icon="adjustments-vertical" >}}
-  {{< card url="../Economics/intro" title="Introduction" icon="adjustments-vertical" >}}
+  {{< card url="../AI/ai-introduction" title="AI Introduction" icon="adocument-duplicate" >}}
+  {{< card url="../Statistics/statistics-introduction" title="Statistics Introduction" icon="document-duplicate" >}}
+  {{< card url="../Economics/economics-introduction" title="Economics Introduction" icon="document-duplicate" >}}
 {{< /cards >}}
