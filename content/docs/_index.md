@@ -3,7 +3,7 @@ linkTitle: Documentation
 title: Introduction
 ---
 
-👋 Welcome to My Blog
+👋 Welcome to my Blog
 
 <!--more-->
 

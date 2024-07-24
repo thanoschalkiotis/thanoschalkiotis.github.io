@@ -8,8 +8,8 @@ appearance:
   mode: light
   color: sky
 
-# Sponsor
-i_am_a_sponsor: true
+# # Sponsor
+# i_am_a_sponsor: true
 
 # SEO
 marketing:
