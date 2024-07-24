@@ -1,3 +1,4 @@
+---
 title: Statistics
 weight: 4
 sidebar:

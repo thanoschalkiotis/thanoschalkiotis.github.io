@@ -1,3 +1,4 @@
+---
 title: AI
 weight: 3
 sidebar:

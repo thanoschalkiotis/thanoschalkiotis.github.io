@@ -1,3 +1,4 @@
+---
 title: Economics
 weight: 5
 sidebar:
