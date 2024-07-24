@@ -52,9 +52,11 @@ Happy reading, and welcome to the fascinating world of data, AI, statistics, and
 
 ## Next
 
-Let's customize your new site:
+Let's dive in:
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="../Data/intro" title="Introduction" icon="document-duplicate" >}}
+  {{< card url="../AI/intro" title="Introduction" icon="adjustments-vertical" >}}
+  {{< card url="../Statistics/intro" title="Introduction" icon="adjustments-vertical" >}}
+  {{< card url="../Economics/intro" title="Introduction" icon="adjustments-vertical" >}}
 {{< /cards >}}
