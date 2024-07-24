@@ -55,7 +55,7 @@ Happy reading, and welcome to the fascinating world of data, AI, statistics, and
 Let's dive in:
 
 {{< cards >}}
-  {{< card url="../Data/intro" title="Introduction" icon="document-duplicate" >}}
+  {{< card url="../data/data-introduction" title="Data Introduction" icon="document-duplicate" >}}
   {{< card url="../AI/intro" title="Introduction" icon="adjustments-vertical" >}}
   {{< card url="../Statistics/intro" title="Introduction" icon="adjustments-vertical" >}}
   {{< card url="../Economics/intro" title="Introduction" icon="adjustments-vertical" >}}
