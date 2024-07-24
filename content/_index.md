@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-06-25
 type: landing
 
 design:
@@ -10,20 +10,19 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Numbers tell the truth
+      text: You have to know how to read them though 🧐
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
-      secondary_action:
         text: Read the docs
         url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      # secondary_action:
+      #   text: Read the docs
+      #   url: /docs/
+      # announcement:
+      #   text: "Last articles"
+      #   link:
+      #     text: "Read more"
+      #     url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,18 +39,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "Data"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Uncover insights hidden in the numbers
+        - statistic: "AI"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Exploring the frontiers of machine learning and cognition
+        - statistic: "Stats"
           description: |
-            Discord community  
-            for support
+            Extracting meaningful patterns from complex dataset
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"
@@ -61,34 +57,34 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      title: Economics
+      text: Deciphering the forces that shape our financial world.Unveiling the intricate dance of supply, demand, and human behavior.
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+        - name: Data-driven decision making
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: AI and statistics rely on vast amounts of data to inform economic policies and predictions.
+        - name: Predictive modeling
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: AI and statistical techniques are crucial for forecasting economic trends and market behaviors.
+        - name: Resource optimization
+          icon: sparkles
+          description: Economic principles guide how we allocate resources in data management and AI development.
+        - name: Technological disruption
+          icon: code-bracket
+          description: AI and data analytics are reshaping economic landscapes, creating new markets and transforming existing ones.
+        # - name: Highly Rated
+        #   icon: star
+        #   description: Rated 5-stars by the community.
+        # - name: Swappable Blocks
+        #   icon: rectangle-group
+        #   description: Build your pages with blocks - no coding required!
   - block: cta-card
     content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
+      title: "Modern economics is deeply intertwined with data, AI, and statistics, forming the backbone of evidence-based policy and decision-making."
+      text: This blog explores the fascinating intersection of these fields, uncovering how they collectively shape our understanding of markets, technology, and society.
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: /docs/
     design:
       card:
         # Card background color (CSS class)

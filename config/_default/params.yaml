@@ -38,7 +38,7 @@ header:
     logo:
       text: "Thanos C."
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: ""
     button:
       enable: true
       text: "Get Started"
