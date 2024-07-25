@@ -61,7 +61,7 @@ sections:
       text: Deciphering the forces that shape our financial world.Unveiling the intricate dance of supply, demand, and human behavior.
       items:
         - name: Data-driven decision making
-          icon: custom/database-solid
+          icon: bolt
           description: AI and statistics rely on vast amounts of data to inform economic policies and predictions.
         - name: Predictive modeling
           icon: rectangle-group
@@ -76,7 +76,7 @@ sections:
           icon: code-bracket
           description: AI and statistical methods enable the transformation of raw data into actionable economic insights and knowledge.
         - name: Risk assessment
-          icon: star
+          icon: magnifying-glass
           description:  Data analytics and AI-powered models enhance economic risk evaluation and management across various sectors and markets.
 
   - block: cta-card
