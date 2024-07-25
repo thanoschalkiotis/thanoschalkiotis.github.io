@@ -61,7 +61,7 @@ sections:
       text: Deciphering the forces that shape our financial world.Unveiling the intricate dance of supply, demand, and human behavior.
       items:
         - name: Data-driven decision making
-          icon: star
+          icon: custom/database-solid
           description: AI and statistics rely on vast amounts of data to inform economic policies and predictions.
         - name: Predictive modeling
           icon: rectangle-group
