@@ -70,14 +70,14 @@ sections:
           icon: sparkles
           description: Economic principles guide how we allocate resources in data management and AI development.
         - name: Technological disruption
-          icon: code-bracket
+          icon: star
           description: AI and data analytics are reshaping economic landscapes, creating new markets and transforming existing ones.
-          - name: Knowledge extraction
-          icon: code-bracket
-          description: AI and statistical methods enable the transformation of raw data into actionable economic insights and knowledge.
-          - name: Risk assessment
-          icon: exclamation
-          description:  Data analytics and AI-powered models enhance economic risk evaluation and management across various sectors and markets.
+          # - name: Knowledge extraction
+          # icon: code-bracket
+          # description: AI and statistical methods enable the transformation of raw data into actionable economic insights and knowledge.
+          # - name: Risk assessment
+          # icon: exclamation
+          # description:  Data analytics and AI-powered models enhance economic risk evaluation and management across various sectors and markets.
 
   - block: cta-card
     content:
