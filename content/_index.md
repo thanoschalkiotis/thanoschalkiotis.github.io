@@ -73,7 +73,7 @@ sections:
           icon: code-bracket
           description: AI and data analytics are reshaping economic landscapes, creating new markets and transforming existing ones.
           - name: Knowledge extraction
-          icon: custom/database-solid
+          icon: code-bracket
           description: AI and statistical methods enable the transformation of raw data into actionable economic insights and knowledge.
           - name: Risk assessment
           icon: exclamation
