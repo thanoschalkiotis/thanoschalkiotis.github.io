@@ -72,12 +72,13 @@ sections:
         - name: Technological disruption
           icon: code-bracket
           description: AI and data analytics are reshaping economic landscapes, creating new markets and transforming existing ones.
-        # - name: Highly Rated
-        #   icon: star
-        #   description: Rated 5-stars by the community.
-        # - name: Swappable Blocks
-        #   icon: rectangle-group
-        #   description: Build your pages with blocks - no coding required!
+          - name: Knowledge extraction
+          icon: custom/database-solid
+          description: AI and statistical methods enable the transformation of raw data into actionable economic insights and knowledge.
+          - name: Risk assessment
+          icon: exclamation
+          description:  Data analytics and AI-powered models enhance economic risk evaluation and management across various sectors and markets.
+
   - block: cta-card
     content:
       title: "Modern economics is deeply intertwined with data, AI, and statistics, forming the backbone of evidence-based policy and decision-making."
