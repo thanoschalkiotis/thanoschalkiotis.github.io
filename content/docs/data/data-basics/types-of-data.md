@@ -8,6 +8,9 @@ weight: 2
 ### 1. Based on Nature
 
 #### Quantitative Data
+
+Quantitative data can be counted or measured and is typically represented in numerical form. It is divided into discrete data, which involves countable, distinct values, and continuous data, which can take any value within a range. Discrete data often involve count models like Poisson and negative binomial, while continuous data are analyzed using linear regression and time series analysis.
+
 - **Discrete Data**
   - Characteristics: Countable, whole numbers
   - Advanced concepts:
@@ -33,6 +36,9 @@ weight: 2
     - Time series analysis
 
 #### Qualitative Data
+
+Qualitative data describes non-numerical characteristics and properties. Nominal data consists of categories without order, useful for brand preference and genetic analysis, while ordinal data includes ordered categories, often used in surveys and credit ratings. Analytical techniques include chi-square tests, multinomial logistic regression, ordinal logistic regression, and Spearman's rank correlation.
+
 - **Nominal Data**
   - Advanced concepts:
     - Multi-label classification: Items can belong to multiple categories
@@ -58,6 +64,9 @@ weight: 2
 ### 2. Based on Source
 
 #### Primary Data
+
+Primary data is collected directly by researchers to fit specific needs, offering high control over quality but often being time-consuming and expensive. It requires careful ethical considerations such as informed consent and privacy protection. Methods include experimental designs, observational studies, and surveys.
+
 - Advantages:
   - Tailored to specific research needs
   - High control over data quality
@@ -73,6 +82,9 @@ weight: 2
   - Surveys and questionnaires
 
 #### Secondary Data
+
+Secondary data is obtained from existing sources like government databases, academic repositories, and commercial providers. It is cost-effective and suitable for large-scale analysis but may not perfectly fit specific research needs and could be outdated. It’s essential to consider data licensing, usage rights, and the original data collection methodology.
+
 - Sources:
   - Government databases (e.g., US Census Bureau)
   - Academic repositories (e.g., Harvard Dataverse)
@@ -90,6 +102,9 @@ weight: 2
 ### 3. Based on Structure
 
 #### Structured Data
+
+Structured data is highly organized, easily searchable, and stored in relational databases and data warehouses. It facilitates efficient storage and retrieval but may lack flexibility to adapt to changing data requirements and complex relationships. Technologies include SQL for querying and OLAP for multidimensional analysis.
+
 - Storage:
   - Relational databases (e.g., MySQL, PostgreSQL)
   - Data warehouses
@@ -104,6 +119,9 @@ weight: 2
   - OLAP for multidimensional analysis
 
 #### Unstructured Data
+
+Unstructured data, which comprises most of the data generated, includes text, rich media, and scientific data. It is challenging to analyze with traditional methods and requires significant preprocessing. Technologies for analysis include NLP for text, computer vision for images, and speech recognition for audio.
+
 - Estimated to comprise 80-90% of all data
 - Types:
   - Text (e.g., emails, social media posts)
@@ -118,6 +136,9 @@ weight: 2
   - Speech recognition for audio
 
 #### Semi-structured Data
+
+Semi-structured data has a self-describing structure with flexible schemas, like JSON, XML, and YAML. It is commonly used in web services, APIs, and configuration files. NoSQL databases and data lakes are typical technologies for handling semi-structured data.
+
 - Characteristics:
   - Self-describing structure
   - Flexible schema
@@ -135,6 +156,9 @@ weight: 2
 ### 4. Based on Variability
 
 #### Cross-sectional Data
+
+Cross-sectional data captures a snapshot of a population at a single point in time, suitable for market research and epidemiological studies. Analytical techniques include multiple regression, logistic regression, and factor analysis.
+
 - Characteristics:
   - Snapshot of a population at a single point in time
   - Multiple variables observed simultaneously
@@ -147,6 +171,9 @@ weight: 2
   - Factor analysis
 
 #### Time Series Data
+
+Time series data involves observations over time, used for economic forecasting, stock market analysis, and weather prediction. Components include trends, seasonality, cyclical patterns, and random fluctuations. Techniques include ARIMA models, exponential smoothing, and spectral analysis.
+
 - Types:
   - Regular time series: Observations at equal time intervals
   - Irregular time series: Observations at unequal intervals
@@ -165,6 +192,9 @@ weight: 2
   - Spectral analysis
 
 #### Panel Data (Longitudinal Data)
+
+Panel data captures both time and individual differences, used in socioeconomic and healthcare research. It requires complex models to handle its dimensions and challenges like missing data. Techniques include fixed effects models, random effects models, and dynamic panel data models.
+
 - Advantages:
   - Captures both time and individual differences
   - Allows for controlling unobserved variables
