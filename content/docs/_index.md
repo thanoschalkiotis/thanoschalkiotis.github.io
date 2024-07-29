@@ -30,6 +30,8 @@ Remember the motto: "Numbers tell the truth, you have to know how to read them t
 
 Join me as I decode the language of data and uncover the stories it tells about our world!
 
+
+
 ## Next
 
 {{< cards >}}
