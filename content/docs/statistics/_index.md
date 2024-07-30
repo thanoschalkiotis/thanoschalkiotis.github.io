@@ -7,5 +7,5 @@ sidebar:
 
 {{< cards >}}
   {{< card url="statistics-introduction" title="Statistics Introduction" icon="document-duplicate" >}}
-  {{< card url="statistics-basics" title="Some Statistics Basics" icon="adjustments-vertical" >}}
+  {{< card url="statistics-basics" title="Statistics Basics" icon="adjustments-vertical" >}}
 {{< /cards >}}
