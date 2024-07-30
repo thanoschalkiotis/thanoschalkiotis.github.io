@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: Other projects
-      text: 'About technology, cybersecurity, education, reading and more'
+      text: 'About education, technology, reading and more'
       # primary_action:
       #   icon: brands/x
       #   text: Submit Your Site
