@@ -51,7 +51,7 @@ Primary data is collected directly by researchers to fit specific needs, offerin
   - Observational studies
   - Surveys and questionnaires
 
-#### Secondary Data
+### Secondary Data
 
 Secondary data is obtained from existing sources like government databases, academic repositories, and commercial providers. It is cost-effective and suitable for large-scale analysis but may not perfectly fit specific research needs and could be outdated. It’s essential to consider data licensing, usage rights, and the original data collection methodology.
 
@@ -69,9 +69,9 @@ Secondary data is obtained from existing sources like government databases, acad
   - Data licensing and usage rights
   - Understanding the original data collection methodology
 
-### 3. Based on Structure
+## 3. Based on Structure
 
-#### Structured Data
+### Structured Data
 
 Structured data is highly organized, easily searchable, and stored in relational databases and data warehouses. It facilitates efficient storage and retrieval but may lack flexibility to adapt to changing data requirements and complex relationships. Technologies include SQL for querying and OLAP for multidimensional analysis.
 
@@ -88,7 +88,7 @@ Structured data is highly organized, easily searchable, and stored in relational
   - SQL for querying
   - OLAP for multidimensional analysis
 
-#### Unstructured Data
+### Unstructured Data
 
 Unstructured data, which comprises most of the data generated, includes text, rich media, and scientific data. It is challenging to analyze with traditional methods and requires significant preprocessing. Technologies for analysis include NLP for text, computer vision for images, and speech recognition for audio.
 
@@ -105,7 +105,7 @@ Unstructured data, which comprises most of the data generated, includes text, ri
   - Computer Vision for images
   - Speech recognition for audio
 
-#### Semi-structured Data
+### Semi-structured Data
 
 Semi-structured data has a self-describing structure with flexible schemas, like JSON, XML, and YAML. It is commonly used in web services, APIs, and configuration files. NoSQL databases and data lakes are typical technologies for handling semi-structured data.
 
@@ -123,9 +123,9 @@ Semi-structured data has a self-describing structure with flexible schemas, like
   - NoSQL databases (e.g., MongoDB, Cassandra)
   - Data lakes for storing varied data types
 
-### 4. Based on Variability
+## 4. Based on Variability
 
-#### Cross-sectional Data
+### Cross-sectional Data
 
 Cross-sectional data captures a snapshot of a population at a single point in time, suitable for market research and epidemiological studies. Analytical techniques include multiple regression, logistic regression, and factor analysis.
 
@@ -140,7 +140,7 @@ Cross-sectional data captures a snapshot of a population at a single point in ti
   - Logistic regression
   - Factor analysis
 
-#### Time Series Data
+### Time Series Data
 
 Time series data involves observations over time, used for economic forecasting, stock market analysis, and weather prediction. Components include trends, seasonality, cyclical patterns, and random fluctuations. Techniques include ARIMA models, exponential smoothing, and spectral analysis.
 
@@ -161,7 +161,7 @@ Time series data involves observations over time, used for economic forecasting,
   - Exponential smoothing
   - Spectral analysis
 
-#### Panel Data (Longitudinal Data)
+### Panel Data (Longitudinal Data)
 
 Panel data captures both time and individual differences, used in socioeconomic and healthcare research. It requires complex models to handle its dimensions and challenges like missing data. Techniques include fixed effects models, random effects models, and dynamic panel data models.
 
@@ -179,15 +179,15 @@ Panel data captures both time and individual differences, used in socioeconomic 
   - Random effects models
   - Dynamic panel data models
 
-### 5. Based on Scale of Measurement
+## 5. Based on Scale of Measurement
 
 (This section can be expanded similarly, detailing each scale type, its properties, applications, and analytical considerations.)
 
-### 6. Based on Format
+## 6. Based on Format
 
 (This section can be further elaborated, discussing each data format in depth, including storage considerations, processing techniques, and typical use cases.)
 
-### 7. Based on Sensitivity
+## 7. Based on Sensitivity
 
 (This section can be expanded to include more about data security measures, compliance requirements, and ethical considerations for each sensitivity level.)
 
