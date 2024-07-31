@@ -171,13 +171,19 @@ This relationship helps researchers bridge the conceptual understanding of data 
 
 Understanding both categorization systems enables more precise selection of analytical methods, appropriate data visualization techniques, and accurate interpretation of results. It also helps in recognizing the limitations and possibilities of different data types, ensuring that analyses are both statistically valid and meaningful within the context of the research or application.
 
-## 6. Based on Format
+## 6. Based on Sensitivity
 
-(This section can be further elaborated, discussing each data format in depth, including storage considerations, processing techniques, and typical use cases.)
+Categorizing data based on sensitivity is a systematic approach to ensure that information within an organization is adequately protected and managed. The categorization scheme typically involves assigning data to different levels of sensitivity, each with specific handling requirements. This helps in determining the appropriate security measures and access controls necessary to safeguard the data. The basic categories often include Public, Internal, Confidential, Sensitive, and Highly Sensitive data, each with distinct characteristics and protective needs.
 
-## 7. Based on Sensitivity
+**Public data** encompasses information that can be openly shared without any risk of negative consequences. This category includes content like marketing materials, press releases, and general information available on the organization’s website. Since public data is intended for widespread distribution, it has minimal handling requirements beyond ensuring its accuracy and integrity. This category does not necessitate stringent security measures, but it’s still important to maintain its correctness and availability.
 
-(This section can be expanded to include more about data security measures, compliance requirements, and ethical considerations for each sensitivity level.)
+**Internal data** is intended for use within the organization and is not meant for public disclosure. Examples of internal data include internal communications, organizational policies, and general employee information. While the sensitivity level is higher than public data, it typically requires moderate security measures, such as basic access controls to limit exposure to authorized personnel only. The aim is to prevent unauthorized internal access while ensuring that employees who need the information can easily access it.
+
+**Confidential data** is more sensitive and includes information that could harm the organization or its stakeholders if disclosed. This category encompasses business plans, financial records, and customer information. Protecting confidential data requires robust security measures, including encryption, strict access controls, and regular monitoring to detect and prevent unauthorized access. Ensuring the confidentiality of this data is crucial for maintaining competitive advantage and complying with privacy regulations.
+
+At the highest end of the sensitivity spectrum is **Highly Sensitive data**, which could cause significant harm if compromised. This includes classified government information, trade secrets, and critical infrastructure data. The handling of highly sensitive data involves the most stringent security measures, such as advanced encryption, multi-factor authentication, and rigorous access restrictions. Regular audits and continuous monitoring are essential to maintain the security of this data, ensuring that only individuals with the highest clearance levels can access it. Properly managing highly sensitive data is vital for national security, competitive positioning, and overall organizational integrity.
+
+---
 
 Understanding these nuanced aspects of data types is crucial for:
 - Designing effective data collection strategies
