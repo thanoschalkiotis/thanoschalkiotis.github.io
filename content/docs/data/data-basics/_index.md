@@ -1,5 +1,8 @@
 ---
 title: Data Basics
+weight: 2
+sidebar:
+  open: true
 ---
 
 
