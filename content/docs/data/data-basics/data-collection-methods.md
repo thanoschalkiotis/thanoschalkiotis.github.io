@@ -1,6 +1,6 @@
 ---
-title: Data Collection Methods
-weight: 4
+title: Data Collection 
+weight: 3
 ---
 
 ### Data Collection Methods

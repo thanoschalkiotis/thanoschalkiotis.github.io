@@ -1,6 +1,6 @@
 ---
-title: Ethical Considerations
-weight: 8
+title: Data Ethics and Governance
+weight: 10
 ---
 
 

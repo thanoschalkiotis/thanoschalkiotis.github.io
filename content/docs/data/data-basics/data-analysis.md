@@ -1,6 +1,6 @@
 ---
 title: Data Analysis
-weight: 7
+weight: 6
 ---
 
 

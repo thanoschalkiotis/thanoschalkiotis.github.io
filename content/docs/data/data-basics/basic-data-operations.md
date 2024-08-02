@@ -1,6 +1,6 @@
 ---
 title: Basic Data Operations
-weight: 5
+weight: 8
 ---
 
 ### Basic Data Operations

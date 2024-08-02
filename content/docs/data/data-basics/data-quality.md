@@ -1,6 +1,6 @@
 ---
-title: Importance of Data Quality
-weight: 6
+title: Data Quality
+weight: 5
 ---
 
 ### Importance of Data Quality
