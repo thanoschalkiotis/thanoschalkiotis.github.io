@@ -3,11 +3,10 @@ title: Data Management
 weight: 4
 ---
 
-## Data Management
 
 Data management is the cornerstone of modern information systems, encompassing the practices, strategies, and technologies used to collect, organize, store, and utilize data effectively. In an era where information is a critical asset for businesses and organizations, robust data management is essential for making informed decisions, improving operational efficiency, and gaining competitive advantages. It involves a wide range of disciplines, from database design and administration to data governance, quality assurance, and analytics. As the volume, variety, and velocity of data continue to grow exponentially, effective data management has become increasingly complex, requiring sophisticated tools and methodologies to handle big data, ensure data security and privacy, and extract valuable insights. This field is constantly evolving, driven by technological advancements and the ever-increasing demand for data-driven solutions across industries.
 
-### Database systems
+## Database systems
 
 A database system is a computerized tool for storing, organizing, and managing large amounts of information. Think of it as a digital filing cabinet where data is stored in a structured way, making it easy to find, update, and use when needed.
 Instead of having information scattered across many files or papers, a database system keeps everything in one place. It allows users to:
@@ -22,7 +21,7 @@ For example, a library database system might store information about books, borr
 
 In essence, a database system is a tool that helps manage information in a way that's organized, accessible, and useful for its users.
 
-####  Types of Database Systems
+###  Types of Database Systems
 
 **Relational Database Management Systems (RDBMS)** are the most traditional and widely used type of database systems. They store data in tables with rows and columns, where each row represents a record and each column represents a field. These systems use structured query language (SQL) for defining and manipulating the data.
 
@@ -65,42 +64,48 @@ Examples of NewSQL databases include Google Spanner, CockroachDB, and VoltDB. Th
 
 NewSQL databases address some of the limitations of both traditional RDBMS and NoSQL systems, offering a middle ground for applications that need scalability without sacrificing the robust features of relational databases.
 
-#### Comparison of Database Types
+### Comparison of Database Types
 
-#####  Data Model
+####  Data Model
 
 When comparing different types of database systems, one of the most fundamental distinctions lies in their data models. Relational databases employ a structured, tabular model with predefined schemas, organizing data into tables with rows and columns. This approach excels at representing complex relationships and enforcing data integrity. In contrast, NoSQL databases offer flexible schemas and diverse data models, including document, key-value, wide-column, and graph structures, allowing for easy adaptation to evolving data requirements. NewSQL databases attempt to bridge these approaches, providing structured data storage with some schema flexibility, aiming to combine the robust integrity of relational databases with the scalability often associated with NoSQL systems. These differing data models significantly impact how information is stored, accessed, and manipulated, making them a crucial factor in selecting the most appropriate database system for specific applications or use cases.
 
-##### Scalability
+#### Scalability
 
 When comparing database systems, scalability is also a critical factor that significantly influences performance and capacity as data volumes grow. Relational databases traditionally rely on vertical scaling, also known as scaling up, which involves adding more power (CPU, RAM, storage) to a single server. This approach can be costly and has inherent limitations. NoSQL databases, by design, excel at horizontal scaling or scaling out, allowing for the distribution of data across multiple servers or nodes. This method offers potentially unlimited scalability by simply adding more machines to the cluster. NewSQL databases aim to provide the best of both worlds, offering horizontal scaling capabilities similar to NoSQL systems while maintaining the strong consistency typically associated with relational databases. This approach allows NewSQL systems to handle large-scale, distributed data operations without sacrificing data integrity, making them suitable for applications that require both high scalability and strict consistency guarantees.
 
-##### Consistency
+#### Consistency
 
 Relational: Strong consistency (ACID)
 NoSQL: Often eventual consistency, some offer strong consistency
 NewSQL: Strong consistency across distributed systems
 
-##### Query Language
+#### Query Language
 
 Relational: SQL (Structured Query Language)
 NoSQL: Various, often database-specific languages
 NewSQL: SQL with extensions for distributed queries
 
-##### Use Cases
+#### Use Cases
 
 Relational: Complex transactions, data integrity-critical applications
 NoSQL: Big data, real-time web apps, content management
 NewSQL: High-performance OLTP and OLAP applications at scale
 
-##### Performance
+#### Performance
 
 Relational: Optimized for complex joins and transactions
 NoSQL: High performance for simple read/write operations
 NewSQL: Aims to combine relational performance with NoSQL scalability
 
-##### Data Integrity
+#### Data Integrity
 
 Relational: Strong data integrity through constraints and relationships
 NoSQL: Limited built-in integrity features, often handled in application logic
 NewSQL: Strong data integrity with distributed transaction support
+
+### Data Warehousing
+
+### Challenges in storing and organizing vast amounts of data
+
+### Strategies to address these challenges
