@@ -76,15 +76,19 @@ When comparing database systems, scalability is also a critical factor that sign
 
 #### Consistency
 
-Relational: Strong consistency (ACID)
-NoSQL: Often eventual consistency, some offer strong consistency
-NewSQL: Strong consistency across distributed systems
+Consistency in database systems is a crucial aspect that affects how data is managed and maintained across different transactions and nodes. Relational Database Management Systems (RDBMS) adhere to strict ACID properties, ensuring strong consistency and data integrity. These systems use predefined schemas and constraints to maintain a valid state before and after transactions, making them ideal for applications where data accuracy is paramount, such as financial systems and inventory management. However, their reliance on vertical scaling poses challenges in handling large-scale data efficiently.
+
+NoSQL databases, in contrast, often follow the BASE model, prioritizing availability and partition tolerance over immediate consistency. They offer eventual consistency, meaning the database becomes consistent over time but does not guarantee immediate accuracy. This approach allows NoSQL systems to excel in scalability and flexibility, handling unstructured or semi-structured data effectively. These characteristics make them suitable for real-time web applications and social media platforms, where speed and availability are critical, but some temporary inconsistencies are acceptable.
+
+NewSQL databases aim to bridge the gap between RDBMS and NoSQL by combining strong consistency with horizontal scalability. They maintain ACID properties while employing advanced techniques to ensure distributed consistency across multiple nodes. This makes NewSQL databases ideal for large-scale, high-performance applications that require both strict data integrity and the ability to handle extensive, distributed data operations, such as global financial systems and large e-commerce platforms. Overall, NewSQL provides a balanced solution for applications needing the robust features of relational databases alongside the scalability of NoSQL systems.
 
 #### Query Language
 
-Relational: SQL (Structured Query Language)
-NoSQL: Various, often database-specific languages
-NewSQL: SQL with extensions for distributed queries
+Relational databases primarily use SQL (Structured Query Language), a standardized and highly adopted declarative language governed by ANSI and ISO standards. SQL’s rich functionality supports complex queries, joins, aggregations, and transactions, making it ideal for applications requiring precise data manipulation and strong data integrity. The widespread use of SQL has resulted in a robust ecosystem of tools, documentation, and community support, facilitating its integration into various systems.
+
+NoSQL databases, on the other hand, employ various query languages tailored to their specific data models and use cases, such as MongoDB’s query language for document stores or Cypher for graph databases. These languages are designed for flexibility and simplicity, allowing them to handle unstructured or semi-structured data efficiently. NoSQL systems often prioritize horizontal scalability and high availability, sometimes at the expense of immediate consistency, which makes them suitable for real-time applications and big data scenarios.
+
+NewSQL databases combine the familiarity and robustness of SQL with extensions for distributed queries and operations, maintaining ACID compliance in a distributed environment. By leveraging SQL, NewSQL databases ensure compatibility with existing SQL-based applications while adding features to handle distributed transactions, sharding, and parallel query execution. This makes NewSQL an attractive option for applications that demand both high scalability and strong consistency, bridging the gap between traditional relational databases and NoSQL systems.
 
 #### Use Cases
 
