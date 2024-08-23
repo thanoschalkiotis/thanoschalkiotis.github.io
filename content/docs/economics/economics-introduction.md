@@ -1,4 +1,4 @@
 ---
-title: Economics Introduction
+title: Introduction
 weight: 1
 ---

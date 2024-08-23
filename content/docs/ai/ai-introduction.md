@@ -1,5 +1,5 @@
 ---
-title: AI Introduction
+title: Introduction
 weight: 1
 ---
 ## Shaping the Future of Technology and Society

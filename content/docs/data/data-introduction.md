@@ -1,5 +1,5 @@
 ---
-title: Data Introduction
+title: Introduction
 weight: 1
 ---
 

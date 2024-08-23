@@ -6,6 +6,6 @@ sidebar:
 ---
 
 {{< cards >}}
-  {{< card url="ai-introduction" title="AI Introduction" icon="document-duplicate" >}}
+  {{< card url="ai-introduction" title="Introduction" icon="document-duplicate" >}}
   {{< card url="data-basics" title="AI Basics" icon="adjustments-vertical" >}}
 {{< /cards >}}

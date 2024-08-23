@@ -1,4 +1,4 @@
 ---
-title: Statistics Introduction
+title: Introduction
 weight: 1
 ---
