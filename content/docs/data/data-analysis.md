@@ -1,9 +1,9 @@
 ---
 title: Data Analysis
-weight: 3
+weight: 2
 ---
 
-## Data Analysis: Unlocking the Power of Information in the Digital Age
+## Unlocking the Power of Information in the Digital Age
 
 ### Introduction to Data Analysis
 

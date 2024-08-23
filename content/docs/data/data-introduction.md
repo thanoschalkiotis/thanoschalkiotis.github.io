@@ -1,6 +1,6 @@
 ---
 title: Data Introduction
-weight: 1
+# weight: 1
 ---
 
 ## Data: The Foundation of Modern Insights

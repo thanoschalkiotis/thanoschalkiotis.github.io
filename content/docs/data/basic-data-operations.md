@@ -1,6 +1,6 @@
 ---
 title: Basic Data Operations
-weight: 4
+weight: 3
 ---
 
 As we delve deeper into our journey through data, AI, statistics, and economics, it's crucial to understand the fundamental operations that form the backbone of data analysis. These operations - cleaning, transformation, aggregation, and filtering - are the tools that allow us to shape raw data into meaningful insights. Let's explore each of these in detail, understanding their importance and how they contribute to our broader goals of uncovering patterns, driving AI innovations, and informing economic decisions.
