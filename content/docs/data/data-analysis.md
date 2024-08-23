@@ -1,6 +1,6 @@
 ---
 title: Data Analysis
-weight: 6
+weight: 3
 ---
 
 ## Data Analysis: Unlocking the Power of Information in the Digital Age

@@ -1,6 +1,6 @@
 ---
 title: Data Visualization
-weight: 9
+weight: 5
 ---
 
 ### Data Visualization: Bringing Numbers to Life
