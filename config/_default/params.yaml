@@ -52,7 +52,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Thanos Chalkiotis. This work is licensed under {license}'
+    notice: '© {year} Content primarily AI-generated (Claude by Anthropic); curated and edited by Thanos Chalkiotis. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

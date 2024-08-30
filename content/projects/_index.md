@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Other projects
+      title: My fully human-authored projects
       text: 'About education, technology, reading and more'
       # primary_action:
       #   icon: brands/x
